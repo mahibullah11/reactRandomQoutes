@@ -1,0 +1,27 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mainContainer{
+  width: 500px;
+  height: 200px;
+  background-color: rgb(15, 108, 77);
+  margin-top: 30px;
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid red;
+  color: white;
+}
+button{
+  /* padding: 10px 40px; */
+  font-size: 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color:black;
+  color: white;
+  margin-bottom: 20px;
+}
+h1{
+  color: rgb(231, 20, 136);
+}
